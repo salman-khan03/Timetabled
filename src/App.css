@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: white;
+}
+
+
+body {
+  background-color: #fff; /* Light background */
+  color:white; /* Text color */
+}
+
+.App {
+  background-color: white;
+  color: #000;
+}
+
